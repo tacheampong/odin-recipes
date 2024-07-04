@@ -2,13 +2,15 @@
 #food-name {
     cursor: pointer;
     border-bottom: 1px solid cadetblue;
-    text-align: center
+    text-align: center;
 }
 
 .card {
     border: 2px dashed cadetblue;
     width: fit-content;
     padding: 10px;
+    margin: 0 auto;
+
 }
 .recipe-photo {
     border: 4px solid black;
