@@ -5,9 +5,7 @@ const toPage = document.getElementById("forward");
 if(toPage){
 
     toPage.addEventListener("click", ChangePage);
-    toPage.querySelector(this.getAttribute('href')).scrollIntoView({
-        behavior:"smooth"
-    })
+
 }
 
 function Home() {
